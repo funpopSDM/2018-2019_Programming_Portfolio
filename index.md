@@ -2,5 +2,7 @@
 
 legoguy181@gmail.com 
 
-## Project 1
-#### Date Completed
+## Space Ship Game
+#### Completed January 9,2018
+
+
