@@ -12,5 +12,15 @@ Use your mouse to control the spaceship. Click to fire the lasers and blast astr
 
 To download and play this game, click the link above. Once there, select the SpaceShipGame_Windows64.zip file and download it.
 
+## Calculator
+### Completed November 29, 2018
+
+#### Description:
+This is a simple calculator with all of the basic operators and the additional sin, cos, and tan operators.
+
+Note: This calculator is in radians mode. This is simply because Processing does not have a calculate-in-degrees mode, or at least not to my knowledge.
+
+#### [Project Files](https://github.com/funpopSDM/2018-2019_Programming_Portfolio/tree/master/Projects/Calculator)
+
 
 
