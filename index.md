@@ -17,7 +17,7 @@ To download and play this game, click the link above. Once there, select the Spa
 ![Lines](https://github.com/funpopSDM/2018-2019_Programming_Portfolio/blob/master/Projects/ScreenSaver/Lines.png?raw=true)
 #### Description:
 This project draws different color lines in random patterns. The lines will keep drawing for awhile, but it eventually resets.
-#### [Download](https://github.com/funpopSDM/2018-2019_Programming_Portfolio/blob/master/Projects/ScreenSaver/Lines.png?raw=true)
+#### [Download](https://github.com/funpopSDM/2018-2019_Programming_Portfolio/tree/master/Projects/ScreenSaver)
 To download the program, click the link above. Once there, select the application.windows64.zip file and download it.
 
 
